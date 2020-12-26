@@ -1,0 +1,70 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: black;
+}
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+
+h3 {
+   color: #FF00FF; 
+}
+
+header h2 {
+    color: #000000;
+}
+
+.site-footer {
+    background-image: linear-gradient(#FF00FF,#00FF00);
+    padding: 20px 0;
+    color: white;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient( #00FF00, #FF00FF);
+    color: #000000;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #00FF00;
+}
+
+.tab-content {
+    border: 1px solid #000000;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: #00FF00;
+    color: black;
+}
+
+.carousel {
+    border: solid #00FF00;
+}
+
+i {
+    color: black;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: #099FFF;
+}
+
+div.card-body {
+    color: black;
+}
